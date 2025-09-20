@@ -1,8 +1,8 @@
 {
     "address": "EQAAxmhcV-0OESlw-IQMZ6B-1mxS47z8KLw6tNLZBv9wMJ_G",
-    "name": "Karmatic Token",
+    "name": "Karmatic",
     "type": "JETTON",
-    "symbol": "KMT",
+    "symbol": "KMT$",
     "decimals": 9,
     "description": "Karmatic Token (KMT) is the native utility token of the K.M.T ecosystem, designed for gaming, decentralized applications, and community rewards.",
     "status": "active",
